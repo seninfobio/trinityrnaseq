@@ -1,4 +1,4 @@
-trinityrnaseq
+Trinity RNA_seq
 =============
 
 [![Build Status](https://travis-ci.org/trinityrnaseq/trinityrnaseq.svg?branch=devel)](https://travis-ci.org/trinityrnaseq/trinityrnaseq)
